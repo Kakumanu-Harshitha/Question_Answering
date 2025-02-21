@@ -3,8 +3,8 @@ Question Answering (QA) is a natural language processing (NLP) task that enables
 
 # Steps to build QA:
 1. A pre-trained deep learning model (like deepset/roberta-base-squad2) is fine-tuned on large-scale question-answering datasets such as SQuAD.
-   
-2. The model takes the context and question as input and predicts the start and end positions of the answer within the context.
+
+2.The model takes the context and question as input and predicts the start and end positions of the answer within the context.
 
 3.Tokenization and inference are performed to extract the most probable answer.
 
